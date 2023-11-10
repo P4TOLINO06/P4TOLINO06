@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo (@P4TOLINO)
-- 👀 I’m interested in Develop my knowledge in programming, specifically in the Javascript and Java language
-- 🌱 I’m currently learning Java and Javascript
+- 👀 I’m interested in Develop my knowledge in programming, specifically in the Python and C++ language
+- 🌱 I’m currently learning Python and C++
 - 📫 How to reach me @edunj2@gmail.com or Instagram @P4TOLINO06
 
 <!---
